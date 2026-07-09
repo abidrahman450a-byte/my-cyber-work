@@ -1,0 +1,6 @@
+{
+  "name": "CyberOS",
+  "description": "An ultra-premium, futuristic Cyber Security learning platform and terminal operating system designed for ethical hackers and security engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
